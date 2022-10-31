@@ -1,7 +1,6 @@
 {
   "name": "ciscryp",
   "version": "0.2.1",
-  "homepage": "https://chisnghiax.com/ciscryp",
   "private": true,
   "dependencies": {
     "@glidejs/glide": "^3.5.2",

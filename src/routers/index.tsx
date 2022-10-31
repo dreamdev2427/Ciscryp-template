@@ -48,7 +48,7 @@ export const pages: Page[] = [
 const MyRoutes = () => {
   return (
     <BrowserRouter
-      basename={process.env.NODE_ENV === "production" ? "ciscryp" : "ciscryp"}
+      basename={process.env.NODE_ENV === "production" ? "" : ""}
     >
       <ScrollToTop />
       <SiteHeader />
